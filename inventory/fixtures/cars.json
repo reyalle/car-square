@@ -1,0 +1,41 @@
+[
+    {
+        "model": "inventory.car",
+        "pk": 1,
+        "fields": {
+            "make": "Toyota",
+            "model": "Corolla",
+            "year": 2021,
+            "price": 20000.00,
+            "is_available": true,
+            "color": "Blue",
+            "vin": "1HGCM82633A123456"
+        }
+    },
+    {
+        "model": "inventory.car",
+        "pk": 2,
+        "fields": {
+            "make": "Honda",
+            "model": "Civic",
+            "year": 2020,
+            "price": 22000.00,
+            "is_available": true,
+            "color": "Red",
+            "vin": "2HGFB2F50DH123456"
+        }
+    },
+    {
+        "model": "inventory.car",
+        "pk": 3,
+        "fields": {
+            "make": "Ford",
+            "model": "Mustang",
+            "year": 2019,
+            "price": 30000.00,
+            "is_available": false,
+            "color": "Black",
+            "vin": "1FAFP4041YF123456"
+        }
+    }
+]
